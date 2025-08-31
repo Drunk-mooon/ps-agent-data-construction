@@ -1,0 +1,302 @@
+{
+    "9mmims_4vGjIhL": {
+        "id": "9mmims_4vGjIhL",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\9mmims_9mmims.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\9mmims_4vGjIhL.jpg",
+        "instruction": "```[prompt]```Please, enhance the color intensity"
+    },
+    "2zo5ht_Wd3y394": {
+        "id": "2zo5ht_Wd3y394",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\2zo5ht_2zo5ht.png",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\2zo5ht_Wd3y394.jpg",
+        "instruction": "```[prompt]```Turn the blue color to green, please."
+    },
+    "Z8Bwj_mymx0": {
+        "id": "Z8Bwj_mymx0",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\Z8Bwj_Z8Bwj.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\Z8Bwj_mymx0.jpg",
+        "instruction": "```[prompt]```Significantly increase the brightness and contrast and overall colors of the image"
+    },
+    "2pitpg_K2hDuO6": {
+        "id": "2pitpg_K2hDuO6",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\2pitpg_2pitpg.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\2pitpg_K2hDuO6.jpg",
+        "instruction": "```[prompt]```Please, enhance colors"
+    },
+    "3afvnn_60RNgvR": {
+        "id": "3afvnn_60RNgvR",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\3afvnn_3afvnn.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\3afvnn_60RNgvR.jpg",
+        "instruction": "```[prompt]```add black and white tone, enhance colors"
+    },
+    "2cyfgi_lbYxHN8": {
+        "id": "2cyfgi_lbYxHN8",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\2cyfgi_2cyfgi.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\2cyfgi_lbYxHN8.jpg",
+        "instruction": "```[prompt]```make this look much more vibrant and lively"
+    },
+    "9n5wnd_L5EaEq6": {
+        "id": "9n5wnd_L5EaEq6",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\9n5wnd_9n5wnd.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\9n5wnd_L5EaEq6.jpg",
+        "instruction": "```[prompt]```Please brighten a bit so the text can be read."
+    },
+    "4bekov_A1g41Uz": {
+        "id": "4bekov_A1g41Uz",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\4bekov_4bekov.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\4bekov_A1g41Uz.jpg",
+        "instruction": "```[prompt]```Please, add effect look like fog"
+    },
+    "9cyWq_tVjQw": {
+        "id": "9cyWq_tVjQw",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\9cyWq_9cyWq.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\9cyWq_tVjQw.jpg",
+        "instruction": "```[prompt]```Please, brighten the photo a lot"
+    },
+    "sQdlj_szDZQ": {
+        "id": "sQdlj_szDZQ",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\sQdlj_sQdlj.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\sQdlj_szDZQ.jpg",
+        "instruction": "```[prompt]```Lighten the image and add the yellow tone"
+    },
+    "2zms78_NxqJnaG": {
+        "id": "2zms78_NxqJnaG",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\2zms78_2zms78.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\2zms78_NxqJnaG.jpg",
+        "instruction": "```[prompt]```Please reduce the brightness, enhance and darken the colors so the text can be read."
+    },
+    "cLFnQ_4KD3g": {
+        "id": "cLFnQ_4KD3g",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\cLFnQ_cLFnQ.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\cLFnQ_4KD3g.jpg",
+        "instruction": "```[prompt]```Darken the colors and add a green tone to the whole picture"
+    },
+    "7hh8ig_0ZZomwz": {
+        "id": "7hh8ig_0ZZomwz",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\7hh8ig_7hh8ig.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\7hh8ig_0ZZomwz.jpg",
+        "instruction": "```[prompt]```Make it more colorful and turn the colors more red"
+    },
+    "s1DNc_g0zMW": {
+        "id": "s1DNc_g0zMW",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\s1DNc_s1DNc.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\s1DNc_g0zMW.jpg",
+        "instruction": "```[prompt]```Please brighten this photo a lot so it can be seen better!"
+    },
+    "338ve1_SxqyZw4": {
+        "id": "338ve1_SxqyZw4",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\338ve1_338ve1.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\338ve1_SxqyZw4.jpg",
+        "instruction": "```[prompt]```Please make look black and white"
+    },
+    "v1ywN_9hG4y": {
+        "id": "v1ywN_9hG4y",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\v1ywN_v1ywN.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\v1ywN_9hG4y.jpg",
+        "instruction": "```[prompt]```Please, remove the brown tone to the photo"
+    },
+    "7bpc9_ch0Df": {
+        "id": "7bpc9_ch0Df",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\7bpc9_7bpc9.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\7bpc9_ch0Df.jpg",
+        "instruction": "```[prompt]```Please, lighten and add a grayish tone to the image"
+    },
+    "2bc23i_xUxz84s": {
+        "id": "2bc23i_xUxz84s",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\2bc23i_2bc23i.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\2bc23i_xUxz84s.jpg",
+        "instruction": "```[prompt]```Change the color tone of the image from blue to red"
+    },
+    "2cymc2_ILZ43kX": {
+        "id": "2cymc2_ILZ43kX",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\2cymc2_2cymc2.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\2cymc2_ILZ43kX.jpg",
+        "instruction": "```[prompt]```get rid of the shadows and increase brightness a bit"
+    },
+    "2qt7k9_tNm6Ce1": {
+        "id": "2qt7k9_tNm6Ce1",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\2qt7k9_2qt7k9.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\2qt7k9_tNm6Ce1.jpg",
+        "instruction": "```[prompt]```Please reduce the greyness and enhance the original colors."
+    },
+    "1lgwb4_UYpJrqi": {
+        "id": "1lgwb4_UYpJrqi",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\1lgwb4_1lgwb4.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\1lgwb4_UYpJrqi.jpg",
+        "instruction": "```[prompt]```Please, sharpen the photo and make look cat more visible"
+    },
+    "c41Y7_gbP5m": {
+        "id": "c41Y7_gbP5m",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\c41Y7_c41Y7.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\c41Y7_gbP5m.jpg",
+        "instruction": "```[prompt]```Please add a strong contrast and enhance the colors."
+    },
+    "1gqhjr_oBwfkeU": {
+        "id": "1gqhjr_oBwfkeU",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\1gqhjr_1gqhjr.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\1gqhjr_oBwfkeU.jpg",
+        "instruction": "```[prompt]```Please reduce the brightness and make it more visible."
+    },
+    "2ha4nm_1TwSWcu": {
+        "id": "2ha4nm_1TwSWcu",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\2ha4nm_2ha4nm.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\2ha4nm_1TwSWcu.jpg",
+        "instruction": "```[prompt]```darken and increase contrast and saturnation a lot"
+    },
+    "2qu1el_6kPc7qR": {
+        "id": "2qu1el_6kPc7qR",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\2qu1el_2qu1el.png",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\2qu1el_6kPc7qR.jpg",
+        "instruction": "```[prompt]```Change the red color into blue"
+    },
+    "4fj3rn_aGyc8va": {
+        "id": "4fj3rn_aGyc8va",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\4fj3rn_4fj3rn.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\4fj3rn_aGyc8va.jpg",
+        "instruction": "```[prompt]```Please, brightness the photo and make look more visible"
+    },
+    "7344uc_w1XGgGX": {
+        "id": "7344uc_w1XGgGX",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\7344uc_7344uc.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\7344uc_w1XGgGX.jpg",
+        "instruction": "```[prompt]```Please, reduce the greyness from the photo and strenghthen the contrast, also make colors more natural and blue-ish."
+    },
+    "kXxP3_c8CGr": {
+        "id": "kXxP3_c8CGr",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\kXxP3_kXxP3.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\kXxP3_c8CGr.jpg",
+        "instruction": "```[prompt]```Please, enhance the brightness a lot"
+    },
+    "4lep50_7IiFVHY": {
+        "id": "4lep50_7IiFVHY",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\4lep50_4lep50.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\4lep50_7IiFVHY.jpg",
+        "instruction": "```[prompt]```darken a bit, increase contrast and increase saturnation"
+    },
+    "tZY0v_pxYxh": {
+        "id": "tZY0v_pxYxh",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\tZY0v_tZY0v.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\tZY0v_pxYxh.jpg",
+        "instruction": "```[prompt]```make it less saturnated"
+    },
+    "3T65m_x37W6": {
+        "id": "3T65m_x37W6",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\3T65m_3T65m.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\3T65m_x37W6.jpg",
+        "instruction": "```[prompt]```increase the color intensity and make the picture look more sunny"
+    },
+    "pQyyy_fQNZH": {
+        "id": "pQyyy_fQNZH",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\pQyyy_pQyyy.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\pQyyy_fQNZH.jpg",
+        "instruction": "```[prompt]```Remove the blue tone from the image"
+    },
+    "300qlc_FOUnOOU": {
+        "id": "300qlc_FOUnOOU",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\300qlc_300qlc.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\300qlc_FOUnOOU.jpg",
+        "instruction": "```[prompt]```Please, brighten the photo and make look more visible"
+    },
+    "2s2rzm_qKfJue0": {
+        "id": "2s2rzm_qKfJue0",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\2s2rzm_2s2rzm.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\2s2rzm_qKfJue0.jpg",
+        "instruction": "```[prompt]```fix exposure, brighten a bit"
+    },
+    "3xz2x7_GGP1sX0": {
+        "id": "3xz2x7_GGP1sX0",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\3xz2x7_3xz2x7.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\3xz2x7_GGP1sX0.jpg",
+        "instruction": "```[prompt]```Please, increase color intensity"
+    },
+    "7BGfJ_cWRRh": {
+        "id": "7BGfJ_cWRRh",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\7BGfJ_7BGfJ.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\7BGfJ_cWRRh.jpg",
+        "instruction": "```[prompt]```Brighten the photo"
+    },
+    "41xgk2_EPGbyCv": {
+        "id": "41xgk2_EPGbyCv",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\41xgk2_41xgk2.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\41xgk2_EPGbyCv.jpg",
+        "instruction": "```[prompt]```clean up the colours and fading in the photo, make the image more colorful"
+    },
+    "Z8Bwj_jTMKH": {
+        "id": "Z8Bwj_jTMKH",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\Z8Bwj_Z8Bwj.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\Z8Bwj_jTMKH.jpg",
+        "instruction": "```[prompt]```Please, brighten the photo"
+    },
+    "2pjbky_kDscnM7": {
+        "id": "2pjbky_kDscnM7",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\2pjbky_2pjbky.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\2pjbky_kDscnM7.jpg",
+        "instruction": "```[prompt]```Enhance a lightness a lot"
+    },
+    "cBrCY_wB1nH": {
+        "id": "cBrCY_wB1nH",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\cBrCY_cBrCY.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\cBrCY_wB1nH.jpg",
+        "instruction": "```[prompt]```Add the red tone to the image"
+    },
+    "2pmnya_RjIOJJ4": {
+        "id": "2pmnya_RjIOJJ4",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\2pmnya_2pmnya.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\2pmnya_RjIOJJ4.jpg",
+        "instruction": "```[prompt]```Please, enhance brightness and add more colors to the photo"
+    },
+    "4giskr_GyK5BvE": {
+        "id": "4giskr_GyK5BvE",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\4giskr_4giskr.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\4giskr_GyK5BvE.jpg",
+        "instruction": "```[prompt]```add black and white effect"
+    },
+    "3mlhn6_OilviU9": {
+        "id": "3mlhn6_OilviU9",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\3mlhn6_3mlhn6.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\3mlhn6_OilviU9.jpg",
+        "instruction": "```[prompt]```Please, make photo look clear"
+    },
+    "ZqnT6_9TVqS": {
+        "id": "ZqnT6_9TVqS",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\ZqnT6_ZqnT6.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\ZqnT6_9TVqS.jpg",
+        "instruction": "```[prompt]```Darken the entire image, please"
+    },
+    "2b62c5_fKur0mI": {
+        "id": "2b62c5_fKur0mI",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\2b62c5_2b62c5.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\2b62c5_fKur0mI.jpg",
+        "instruction": "```[prompt]```Lighten the entire image"
+    },
+    "2wes9i_Q6FvNyZ": {
+        "id": "2wes9i_Q6FvNyZ",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\2wes9i_2wes9i.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\2wes9i_Q6FvNyZ.jpg",
+        "instruction": "```[prompt]```Remove brown tone from the image, please"
+    },
+    "wg2PN_l4fCw": {
+        "id": "wg2PN_l4fCw",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\wg2PN_wg2PN.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\wg2PN_l4fCw.jpg",
+        "instruction": "```[prompt]```Please,  make look more visible and color to the photo and make clear"
+    },
+    "vdCDh_76Kxf": {
+        "id": "vdCDh_76Kxf",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\vdCDh_vdCDh.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\vdCDh_76Kxf.jpg",
+        "instruction": "```[prompt]```Please, enhance the brightness a lot, make look more visible"
+    },
+    "t1gWd_wqgy3": {
+        "id": "t1gWd_wqgy3",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\t1gWd_t1gWd.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\t1gWd_wqgy3.jpg",
+        "instruction": "```[prompt]```Darken the entire image"
+    },
+    "4c9lmt_bHUCgtS": {
+        "id": "4c9lmt_bHUCgtS",
+        "origin_image_path": "E:\\tmp for homework\\ps-agent\\images\\4c9lmt_4c9lmt.jpg",
+        "reference_image_path": "E:\\tmp for homework\\ps-agent\\images\\4c9lmt_bHUCgtS.jpg",
+        "instruction": "```[prompt]```can you brighten up and add more color to the image"
+    }
+}
